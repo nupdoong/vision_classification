@@ -3,16 +3,28 @@ import numpy as np
 
 
 labels_to_name_map = {
-    0: 'airplane',
-    1: 'automobile',
-    2: 'bird',
-    3: 'cat',
-    4: 'deer',
-    5: 'dog',
-    6: 'frog',
-    7: 'horse',
-    8: 'ship',
-    9: 'truck'
+    0: 'Shoes',
+    1: 'Topwear',
+    2: 'Bags',
+    3: 'Bottomwear',
+    4: 'Watches',
+    5: 'Innerwear',
+    6: 'Jewellery',
+    7: 'Eyewear',
+    8: 'Fragrance',
+    9: 'Sandal'
+    10: 'Wallets',
+    11: 'Flip Flops',
+    12: 'Belts',
+    13: 'Socks',
+    14: 'Dress',
+    15: 'Lips',
+    16: 'Loungewear and Nightwear',
+    17: 'Saree',
+    18: 'Nails',
+    19: 'Makeup',
+    20: 'Headwear',
+    21: 'Ties'
 }
 
 
